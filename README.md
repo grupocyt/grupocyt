@@ -15,7 +15,7 @@ I am a passionate developer with experience in a variety of technologies and fra
 - **Laravel**: Web application development with PHP. 🛠️
 - **React Native**: Cross-platform mobile app development. 📱
 - **Angular**: Creation of dynamic and responsive web applications. 💻
-- **Swift**: Native iOS app development. 🍏
+- **Swift**: Native iOS app development. 🍎
 - **Azure**: Cloud services deployment and management. ☁️
 
 ## Contact
