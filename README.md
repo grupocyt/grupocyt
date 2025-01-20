@@ -17,6 +17,8 @@ I am a passionate developer with experience in a variety of technologies and fra
 - **Node.js**: Creation of efficient server-side applications. 🌐
 - **Laravel**: Web application development with PHP. 🛠️
 - **Azure**: Cloud services deployment and management. ☁️
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/fb2c0475-d1d8-4da3-adaa-ef9d4e846a77" />
+
 
 ## Contact
 
